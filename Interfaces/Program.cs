@@ -1,4 +1,4 @@
-﻿namespace Properties
+﻿namespace Interfaces
 {
     internal class Program
     {
